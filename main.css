@@ -1,0 +1,51 @@
+.header{
+	color: #5FA8D3;
+	font-size: 50px;
+}
+h1 {
+	color: orange;
+	font-size: 80px;
+	font-family: SimSum;
+}
+#header3{
+	color: lightgreen;
+}
+#header3:hover {
+	color: orange;
+	transition-duration: 0.2s;
+	transform: rotate(360deg);
+}
+
+}
+#killerwhale{
+	display:block;
+	margin:auto;
+	width: 70%;
+	border-radius:30px;
+}
+.Oh h2{
+
+	color: #834929;
+	background: linear-gradient(blue, aqua);
+}
+body{
+	background: linear-gradient(purple, indigo);
+}
+#title{
+	padding: 30px;
+	margin: 80px;
+	background: linear-gradient(100deg, yellow, red, orange);
+	border: 20px double;
+}
+#yourmom{
+	color: brown;
+	border-style: dotted;
+	width: 18000px;
+	lighting-color: green
+}
+@media only screen and (max-width: 768px) {
+	#yourmom {
+		font-size: 30px;
+		font-family: cursive;
+	}
+}
